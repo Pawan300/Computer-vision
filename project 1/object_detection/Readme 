@@ -1,0 +1,12 @@
+Steps:
+
+1) Get web-cam access
+2) Identify human with their boundary
+3) Learn me among all the humans
+    a) Need to learn a model for my embeddings (need my photos and dummy photos with labels)
+    b) Identify me with my boundary lines
+    c) Identify my moving speed and the direction
+4) Identify objects
+5) Identify background for t-1, t, t+1 time interval
+6) Remember background and all the elements between me and background
+7) Replace me with my background
