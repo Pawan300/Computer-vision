@@ -33,3 +33,10 @@ I used Masked RCNN for this task becuase it helps us to consider localization an
     
   * Result I get is :<br>
     <img src="/project%202/results_masked_rcnn/highlighted%20car.jpeg" alt="input" width=500px height=400px/>
+    
+    
+ <br>
+ <br>
+ ### Improvemnet using Detectron model :<br>
+ compare results : <br>
+ <img src="/project%202/results_masked_rcnn/highlighted%20car.jpeg" alt="input" width=500px height=400px/>
