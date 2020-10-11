@@ -37,6 +37,11 @@ I used Masked RCNN for this task becuase it helps us to consider localization an
     
  <br>
  <br>
+ 
  ### Improvemnet using Detectron model :<br>
  compare results : <br>
- <img src="/project%202/results_masked_rcnn/highlighted%20car.jpeg" alt="input" width=500px height=400px/>
+ Detectron                 |  Masked RCNN
+:-------------------------:|:-------------------------:
+<img src="/project%202/result_detectron/7.jpeg" alt="input" width=500px height=400px/>  |  <img src="/project%202/results_masked_rcnn/7.jpeg" alt="input" width=500px height=400px/>
+ 
+ 
