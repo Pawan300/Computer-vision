@@ -6,14 +6,10 @@ I used Masked RCNN for this task becuase it helps us to consider localization an
 
 * Results I get using this approach is : <br>
   
-   * For Muliple cars :<br>
-     <img src="/project%202/results_masked_rcnn/mulitple%20cars.png" alt="different angle" width=500px height=100px/>
-   
-   * For cars with different colors :<br>
-     <img src="/project%202/results_masked_rcnn/different%20color.png" alt="different angle" width=500px height=400px/>
-   
-   * For different angle of cars :<br><br>
-     <img src="/project%202/results_masked_rcnn/different%20angle.png" alt="different angle" width=500px height=400px/>
+Muliple cars               |   Different colors       |    Different angle
+:-------------------------:|:-------------------------|-----------------------------:
+<img src="/project%202/results_masked_rcnn/mulitple%20cars.png" alt="different angle" width=500px height=100px/>  |  <img src="/project%202/results_masked_rcnn/different%20color.png" alt="different angle" width=500px height=400px/> |<img src="/project%202/results_masked_rcnn/different%20angle.png" alt="different angle" width=500px height=400px/>
+<br>
       
 * Now other objective is to find out car which we want to use instead of all of the cars which is in the frame :<br>
   Example : <br><br>
